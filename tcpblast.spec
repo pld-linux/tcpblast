@@ -7,6 +7,7 @@ License:	GPL
 Vendor:		Rafal Maszkowski <rzm@icm.edu.pl>
 Group:		Applications/Networking
 Source0:	ftp://6bone-gw.6bone.pl/pub/blast/%{name}-%{version}.tar.gz
+# Source0-md5:	7769126e5171c3745089a432a78a9e39
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
