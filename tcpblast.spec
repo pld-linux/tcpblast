@@ -9,7 +9,7 @@ Group:		Applications/Networking
 Source0:	ftp://6bone-gw.6bone.pl/pub/blast/%{name}-%{version}.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%description 
+%description
 tcp/udpblast patched from FreeBSD and other versions; added options
 for setting TCP-UDP, block and buffer size, port #, packet size, local
 address/port, continuous speed display, sending random data,
@@ -35,7 +35,7 @@ rm -rf $RPM_BUILD_ROOT
 %{makeinstall}
 
 gzip -9nf docs/README
-	
+
 %clean
 rm -rf $RPM_BUILD_ROOT
 
