@@ -2,7 +2,7 @@ Summary:	tool for measuring network bandwidth
 Summary(pl):	narzêdzie do pomiaru przepustowo¶ci sieci
 Name:		tcpblast
 Version:	20011111
-Release:	1
+Release:	2
 License:	GPL
 Vendor:		Rafal Maszkowski <rzm@icm.edu.pl>
 Group:		Applications/Networking
