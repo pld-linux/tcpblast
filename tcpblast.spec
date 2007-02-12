@@ -1,5 +1,5 @@
 Summary:	tool for measuring network bandwidth
-Summary(pl):	narzêdzie do pomiaru przepustowo¶ci sieci
+Summary(pl.UTF-8):   narzÄ™dzie do pomiaru przepustowoÅ›ci sieci
 Name:		tcpblast
 Version:	20011111
 Release:	2
@@ -17,9 +17,9 @@ address/port, continuous speed display, sending random data,
 bidirectionality, rate limits; units, IPv6, standalone high
 performance echo/chargen/discard included
 
-%description -l pl
-tcp/udpblast pochodz±cy z FreeBSD wzbogacony o dodatkowe mo¿liwo¶ci;
-dodane opcje pozwalaj±ce ustaliæ TCP-UDP, wielko¶æ bloku oraz rozmiar
+%description -l pl.UTF-8
+tcp/udpblast pochodzÄ…cy z FreeBSD wzbogacony o dodatkowe moÅ¼liwoÅ›ci;
+dodane opcje pozwalajÄ…ce ustaliÄ‡ TCP-UDP, wielkoÅ›Ä‡ bloku oraz rozmiar
 bufora, port, rozmiar pakietu, lokalny i zdalny adres/port, limity,
 jednostki, ipv6.
 
