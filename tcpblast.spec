@@ -1,5 +1,5 @@
 Summary:	tool for measuring network bandwidth
-Summary(pl.UTF-8):   narzędzie do pomiaru przepustowości sieci
+Summary(pl.UTF-8):	narzędzie do pomiaru przepustowości sieci
 Name:		tcpblast
 Version:	20011111
 Release:	2
